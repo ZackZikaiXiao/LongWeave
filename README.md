@@ -5,7 +5,7 @@
 
 Switch language: [中文](README.zh.md)
 
-This repository is the official implementation of LongWeave (EMNLP 2025).
+This repository is the official implementation of EMNLP 2025 paper [LongWeave](https://aclanthology.org/2025.findings-emnlp.549/).
 
 LongWeave is an open-source framework for evaluating large language models (LLMs) on long-context generation tasks.
 
@@ -155,14 +155,18 @@ longweave_open/
 ## Citation
 
 ```bibtex
-@misc{xiao2025longweavelongformgenerationbenchmark,
-      title={LongWeave: A Long-Form Generation Benchmark Bridging Real-World Relevance and Verifiability}, 
-      author={Zikai Xiao and Fei Huang and Jianhong Tu and Jianhui Wei and Wen Ma and Yuxuan Zhou and Jian Wu and Bowen Yu and Zuozhu Liu and Junyang Lin},
-      year={2025},
-      eprint={2510.24345},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.24345}, 
+@inproceedings{xiao-etal-2025-longweave,
+    title = "{L}ong{W}eave: A Long-Form Generation Benchmark Bridging Real-World Relevance and Verifiability",
+    author = "Xiao, Zikai and Huang, Fei and Tu, Jianhong and Wei, Jianhui  and Ma, Wen and Zhou, Yuxuan and Wu, Jian and Yu, Bowen and Liu, Zuozhu and Lin, Junyang",
+    editor = "Christodoulopoulos, Christos and Chakraborty, Tanmoy and Rose, Carolyn and Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.549/",
+    pages = "10386--10417",
+    ISBN = "979-8-89176-335-7",
 }
 ```
 ## License
