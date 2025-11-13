@@ -1,7 +1,7 @@
 # 忽略所有 .log 文件
 *.log
 *.pyc
-*.json
+
 
 # 忽略 node_modules 目录
 node_modules/

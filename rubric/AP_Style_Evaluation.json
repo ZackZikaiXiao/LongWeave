@@ -1,0 +1,65 @@
+{
+    "AP_Style_Scoring_Table": [
+      {
+        "Category": "Number Usage",
+        "Scoring_Criteria": "- Number writing rules:\n  1-9 should be written in words; 10 and above should use Arabic numerals.\n  Always use Arabic numerals for ages, amounts, percentages, dates, and times.\n- Ordinal numbers:\n  Do not use 'st', 'nd', 'rd', or 'th'.\n- Plural forms:\n  Do not add an apostrophe to plural numbers (e.g., '7s').",
+        "Incorrect_Examples": "- 'I have 7 apples.'\n- 'The event is on the 3rd day.'\n- 'She is twenty-five years old.'\n- 'All 7’s rolled.'",
+        "Correct_Examples": "- 'I have seven apples.'\n- 'The event is on the third day.'\n- 'She is 25 years old.'\n- 'All 7s rolled.'"
+      },
+      {
+        "Category": "Punctuation",
+        "Scoring_Criteria": "- Quotation marks:\n  Periods and commas always go inside quotation marks.\n- Oxford comma:\n  Avoid using the Oxford comma in lists.\n- Space rules:\n  Use only one space after a period.\n- Colons:\n  Capitalize the first letter after a colon only if it starts a complete sentence or is a proper noun.",
+        "Incorrect_Examples": "- He said, 'Let’s go'.\n- Red, white, and blue.\n- This is a sentence.  Another one follows.\n- 'The following: rules.'",
+        "Correct_Examples": "- He said, 'Let’s go.'\n- Red, white and blue.\n- This is a sentence. Another one follows.\n- 'The following: Rules.'"
+      },
+      {
+        "Category": "Dates and Times",
+        "Scoring_Criteria": "- Date rules:\n  Do not use ordinal indicators like '1st'.\n  Abbreviate months as Jan., Feb., Aug., Sept., Oct., Nov., Dec.\n- Time rules:\n  Use a.m./p.m. format and omit ':00' for whole hours.\n  Write 'midnight' and 'noon' instead of '12 a.m.' or '12 p.m.'",
+        "Incorrect_Examples": "- 'The event is on July 3rd.'\n- 'It starts at 8:00 p.m.'\n- 'Meet me at 12 p.m.'",
+        "Correct_Examples": "- 'The event is on July 3.'\n- 'It starts at 8 p.m.'\n- 'Meet me at noon.'"
+      },
+      {
+        "Category": "Addresses and Locations",
+        "Scoring_Criteria": "- Street address rules:\n  Abbreviate 'Ave.', 'Blvd.', 'St.' but spell out 'Road'.\n- State name rules:\n  Abbreviate state names after city names (except Alaska, Hawaii, Idaho, etc.).\n- Direction rules:\n  Use lowercase for directions like 'north' and 'south'.",
+        "Incorrect_Examples": "- '1600 Pennsylvania Avenue'\n- 'Nashville, Tennessee'\n- 'We went to the East last year.'",
+        "Correct_Examples": "- '1600 Pennsylvania Ave.'\n- 'Nashville, Tenn.'\n- 'We went east last year.'"
+      },
+      {
+        "Category": "Titles and Positions",
+        "Scoring_Criteria": "- Title rules:\n  Capitalize formal titles before a person's name; use lowercase after the name or when used alone.\n  Avoid courtesy titles like Mr., Mrs., Ms.\n- Gender-neutral language:\n  Use gender-neutral terms (e.g., 'police officer' instead of 'policeman').",
+        "Incorrect_Examples": "- 'President Joe Biden visited.'\n- 'Joe Biden, President, spoke.'\n- 'The policeman arrived.'",
+        "Correct_Examples": "- 'President Joe Biden visited.'\n- 'Joe Biden, the president, spoke.'\n- 'The police officer arrived.'"
+      },
+      {
+        "Category": "Media References",
+        "Scoring_Criteria": "- Reference rules:\n  Add quotation marks around titles of articles, books, movies, songs, etc.\n  Do not use quotation marks for newspaper or magazine names; capitalize them.\n  Use website titles instead of URLs.\n- Reference format:\n  Provide full information on first mention; simplify subsequent mentions.",
+        "Incorrect_Examples": "- 'I read the New York Times today.'\n- 'Check out www.google.com.'\n- 'According to the study.'",
+        "Correct_Examples": "- 'I read The New York Times today.'\n- 'Check out Google.'\n- 'According to the study by Smith et al.'"
+      },
+      {
+        "Category": "Capitalization Rules",
+        "Scoring_Criteria": "- Proper nouns:\n  Capitalize specific names (e.g., places, institutions).\n- Seasons and directions:\n  Only capitalize seasons/directions in specific cases (e.g., 'Winter Olympics').\n- Abbreviations:\n  Follow capitalization rules for abbreviations.",
+        "Incorrect_Examples": "- 'The River flows north.'\n- 'We went to the East last year.'\n- 'The study was conducted in the Summer.'",
+        "Correct_Examples": "- 'The river flows north.'\n- 'We went east last year.'\n- 'The study was conducted in the summer.'"
+      },
+      {
+        "Category": "Technical Terms",
+        "Scoring_Criteria": "- Technical terms:\n  Spell technical terms correctly (e.g., 'email', 'smartphone').\n  Capitalize brand names like 'iPhone'.\n  Write 'website' as one word and 'web page' as two words.\n- Spelling:\n  Ensure accurate spelling of technical terms.",
+        "Incorrect_Examples": "- 'I sent an E-mail.'\n- 'Check out my new Iphone.'\n- 'Visit our Webpage.'",
+        "Correct_Examples": "- 'I sent an email.'\n- 'Check out my new iPhone.'\n- 'Visit our web page.'"
+      },
+      {
+        "Category": "Clarity and Brevity",
+        "Scoring_Criteria": "- Brevity:\n  Avoid long or complex sentences.\n- Readability:\n  Use simple language suitable for general audiences.\n- Consistency:\n  Maintain consistent style throughout the text.",
+        "Incorrect_Examples": "- 'The aforementioned individual arrived at the location.'\n- 'This is a highly technical subject matter.'",
+        "Correct_Examples": "- 'The person arrived at the site.'\n- 'This is a technical topic.'"
+      },
+      {
+        "Category": "Overall Consistency",
+        "Scoring_Criteria": "- Consistency:\n  Maintain consistent style for numbers, punctuation, capitalization, etc.\n- Style:\n  Avoid mixing styles (e.g., APA, Chicago).\n- Structure:\n  Ensure logical flow and clear paragraph transitions.",
+        "Incorrect_Examples": "- Mixed number formats (e.g., 'seven' and '8')\n- Inconsistent punctuation (e.g., 'quote.' vs. 'quote.')\n- Large jumps between paragraphs.",
+        "Correct_Examples": "- Unified number formats.\n- Consistent punctuation.\n- Smooth paragraph transitions."
+      }
+    ]
+  }
+  
